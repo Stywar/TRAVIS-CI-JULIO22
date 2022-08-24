@@ -15,8 +15,8 @@ deploy:
     provider: gae
     # Skip cleanup so api_key.py and vendored dependencies are still there
     skip_cleanup: true
-    keyfile: travis-ci-net6-50aad77856c7.json
-    project: travis-ci-net6
+    keyfile: travisci-net6-360323-ad38cb140df8.json
+    project: travisci-net6-360323
     version: service-demo
     default: true
     on:
